@@ -1,0 +1,50 @@
+
+/* -------------------------------------------------------- VARIABLES */
+
+:root {
+
+}
+
+/* ------------------------------------------------------------ RESET */
+
+*,
+*::before,
+*::after {
+  border: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-size: 10px;
+}
+
+input,
+button {
+  font: inherit;
+}
+
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* ---------------------------------------------------------- GENERAL */
+
+body {
+
+}
+
+/* -------------------------------------------------------- CONTAINER */
+
+#container {
+	display: grid;
+}

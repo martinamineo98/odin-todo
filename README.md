@@ -1,2 +1,3 @@
-# odin-todo
-The Odin Project - Todo App created while following the Full Stack Foundation Tutorial
+# ToDo App
+
+Simple ToDo app created while following The Odin Project's Full Stack JavaScript course.
